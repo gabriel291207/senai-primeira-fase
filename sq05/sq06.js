@@ -9,3 +9,4 @@ if(pontuacao <=10){
     alert("Parabéns")
 }else if(pontuacao > 200){
      alert("Arrasou👍👍")
+}
